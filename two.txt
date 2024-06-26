@@ -1,2 +1,3 @@
 
 ahora estoy en la rama "a" donde eh creado un txt two.
+ahora estoy en la rama "b" donde eh agregado mas texto en two.txt.
